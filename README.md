@@ -70,7 +70,7 @@ Data extraction and cleaning · CSV / JSON · Data transformation · Relational 
 
 ### 🎓 Education
 
-- **Master — Data Science for Economics and Business (DS2E)** · Since 2025: programming, econometrics, statistical testing, quantitative analysis, supervised and unsupervised machine learning.
+- **Master — Data Science for Economics and Business (DS2E)** · completed in 2026: programming, econometrics, statistical testing, quantitative analysis, supervised and unsupervised machine learning.
 - **Bachelor's degree — Economics and Management, Quantitative Economics** · 2019–2022: applied mathematics, statistics, finance, accounting, audit and management control.
 
 ### 📫 Connect
